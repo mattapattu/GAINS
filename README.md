@@ -28,10 +28,8 @@ Key features:
 
 | File | Description |
 |------|-------------|
-| `visual_bandit_env2.py` | Two-choice visual bandit environment |
-| `var_bandit_learner.py` | GAINS model architecture |
-| `var_bandit_learner2.py` | Extended variant of GAINS |
-| `bandit_train.py` | Training script (single run) |
+| `visual_bandit_env3.py` | Two-choice visual bandit environment |
+| `gains_model.py` | GAINS model architecture |
 | `bandit_train_batch.py` | Batch training across multiple conditions |
 
 ---
@@ -39,8 +37,8 @@ Key features:
 ## Installation
 
 ```bash
-git clone https://github.com/mattapattu/VarMetaLearning.git
-cd VarMetaLearning
+git clone https://github.com/mattapattu/GAINS.git
+cd GAINS
 pip install -r requirements.txt
 ```
 

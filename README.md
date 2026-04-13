@@ -69,19 +69,6 @@ python bandit_train_batch.py
 
 ---
 
-## Citation
-
-```bibtex
-@inproceedings{james2026gains,
-  title={GAINS: A Meta-Reinforcement Learning Model for Gated Arbitration of Individual and Social Learning Signals},
-  author={James, Ashwin Moongathottathil and Hemed, Eitan and Rodriguez Buritica, Julia M. and Brass, Marcel and Hafner, Verena V.},
-  booktitle={ICDL 2026},
-  year={2026}
-}
-```
-
----
-
 ## Acknowledgements
 
 This study was funded by the Deutsche Forschungsgemeinschaft (DFG) under Germany's Excellence Strategy – EXC 2002/1 "Science of Intelligence" – project number 390523135.

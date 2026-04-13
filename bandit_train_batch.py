@@ -24,11 +24,7 @@ import ray
 
 import visual_bandit_env3 as vbe
 
-# Prefer updated learner if present; fall back to original.
-try:
-    import var_bandit_learner2_updated as bl  # type: ignore
-except Exception:
-    import var_bandit_learner2 as bl  # type: ignore
+import gains_model as bl  # type: ignore
 
 from torch.utils.tensorboard import SummaryWriter
 import os
